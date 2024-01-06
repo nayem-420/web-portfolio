@@ -100,3 +100,6 @@ main{
 .about-info-container{
     display: flex;
 }
+.about-info{
+    text-align: center;
+}
