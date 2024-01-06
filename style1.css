@@ -137,4 +137,13 @@ footer{
     background: #FFF8F3;
     padding: 100px 200px;
     margin-top: 50px;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+.contact input, textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 30px;
 }
